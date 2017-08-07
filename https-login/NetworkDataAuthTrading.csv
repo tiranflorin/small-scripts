@@ -1,0 +1,269 @@
+﻿URL,Protocol,Method,Result,Type,Received,Taken (ms),Initiator,Wait‎‎,Start‎‎,Request‎‎,Response‎‎,Cache read‎‎,Gap‎‎
+https://auth-api.vndirect.com.vn/vtos/auth,HTTPS,OPTIONS,200,,0.72 KB,1.26 s,CORS Preflight,0,969,297,0,0,0
+https://auth-api.vndirect.com.vn/vtos/auth,HTTPS,POST,200,application/json,1.75 KB,375 ms,XMLHttpRequest,1266,0,0,375,0,-375
+https://www.vndirect.com.vn/trade/giao-dich-co-phieu/j_idg_security_check.shtml,HTTPS,GET,302,,349 B,2.15 s,navigate,16,1359,797,0,0,32578
+http://www.vndirect.com.vn/trade/giao-dich-co-phieu/j_idg_security_check.shtml,HTTP,GET,301,text/html,377 B,0.70 s,navigate,2172,390,313,0,0,31875
+https://www.vndirect.com.vn/trade/giao-dich-co-phieu/j_idg_security_check.shtml,HTTPS,GET,302,,367 B,328 ms,navigate,2875,0,328,0,0,31547
+https://www.vndirect.com.vn/trade/giao-dich-co-phieu/dat-lenh-mua-ban.shtml?request_locale=en_GB,HTTPS,GET,200,text/html,76.86 KB,0.93 s,navigate,3203,0,938,0,0,30609
+https://www.vndirect.com.vn/trade/css/stylesheet.css?time=20170801071642,HTTPS,GET,200,text/css,54.98 KB,296 ms,"<link rel=""stylesheet"">",4141,0,296,0,0,30313
+https://www.vndirect.com.vn/trade/css/notification.css?time=20170801071642,HTTPS,GET,200,text/css,3.92 KB,281 ms,"<link rel=""stylesheet"">",4141,15,266,0,0,30328
+https://www.vndirect.com.vn/trade/css/style.css?time=20170801071642,HTTPS,GET,200,text/css,12.25 KB,328 ms,"<link rel=""stylesheet"">",4141,15,313,0,0,30281
+https://www.vndirect.com.vn/trade/css/jquery.validation/default.css?time=20170801071642,HTTPS,GET,200,text/css,0.65 KB,328 ms,"<link rel=""stylesheet"">",4156,0,328,0,0,30266
+https://www.vndirect.com.vn/trade/css/jquery.ui/redmond/jquery-ui-1.7.2.custom.css?time=20170801071642,HTTPS,GET,200,text/css,27.58 KB,328 ms,"<link rel=""stylesheet"">",4156,0,328,0,0,30266
+https://www.vndirect.com.vn/trade/css/jquery.ui/tab.paging.css?time=20170801071642,HTTPS,GET,200,text/css,1.62 KB,0.54 s,"<link rel=""stylesheet"">",4156,266,281,0,0,30047
+https://www.vndirect.com.vn/trade/css/jquery.layout/default.css?time=20170801071642,HTTPS,GET,200,text/css,10.78 KB,0.54 s,"<link rel=""stylesheet"">",4156,281,266,0,0,30047
+https://www.vndirect.com.vn/trade/css/jquery.jqgrid/ui.jqgrid.css?time=20170801071642,HTTPS,GET,200,text/css,9.10 KB,0.64 s,"<link rel=""stylesheet"">",4156,313,328,0,0,29953
+https://www.vndirect.com.vn/trade/css/jquery.autocomplete/default.css?time=20170801071642,HTTPS,GET,200,text/css,1.32 KB,0.67 s,"<link rel=""stylesheet"">",4156,328,328,16,0,29922
+https://www.vndirect.com.vn/trade/css/style_newGUI.css?time=20170801071642,HTTPS,GET,200,text/css,203.62 KB,1.03 s,"<link rel=""stylesheet"">",4156,328,703,0,0,29563
+https://www.vndirect.com.vn/trade/css/style_.css?time=20170801071642,HTTPS,GET,200,text/css,41.08 KB,0.82 s,"<link rel=""stylesheet"">",4156,547,281,0,0,29766
+https://www.vndirect.com.vn/trade/css/style_trungtamphantich.css?time=20170801071642,HTTPS,GET,200,text/css,9.57 KB,0.82 s,"<link rel=""stylesheet"">",4156,547,281,0,0,29766
+https://www.vndirect.com.vn/trade/css/style_trungtamphantich_tktt.css?time=20170801071642,HTTPS,GET,200,text/css,24.32 KB,0.98 s,"<link rel=""stylesheet"">",4156,641,344,0,0,29609
+https://www.vndirect.com.vn/trade/css/font-awesome.min.css?time=20170801071642,HTTPS,GET,200,text/css,28.70 KB,1.00 s,"<link rel=""stylesheet"">",4156,656,344,0,0,29594
+https://www.vndirect.com.vn/trade/css/quote.css?time=20170801071642,HTTPS,GET,200,text/css,19.11 KB,1.00 s,"<link rel=""stylesheet"">",4156,672,328,0,0,29594
+https://static-01.vndirect.com.vn/css/ngDialog.min.css?time=20170801071642,HTTPS,GET,200,text/css,1.86 KB,31 ms,"<link rel=""stylesheet"">",4156,0,31,0,0,30563
+https://static-01.vndirect.com.vn/css/ngDialog-theme-default.min.css?time=20170801071642,HTTPS,GET,200,text/css,3.89 KB,31 ms,"<link rel=""stylesheet"">",4156,0,31,0,0,30563
+https://static-01.vndirect.com.vn/js/trade/jquery-1.8.3.min.js,HTTPS,GET,200,application/javascript,91.87 KB,94 ms,<script>,4156,0,94,0,0,30500
+https://static-01.vndirect.com.vn/js/trade/sockjs-0.3.min.js,HTTPS,GET,200,application/javascript,33.52 KB,47 ms,<script>,4156,0,47,0,0,30547
+https://static-01.vndirect.com.vn/js/trade/notification/stomp.js,HTTPS,GET,200,application/javascript,15.43 KB,31 ms,<script>,4156,0,31,0,0,30563
+https://static-01.vndirect.com.vn/js/trade/angular/angular.min.js,HTTPS,GET,200,application/javascript,102.44 KB,110 ms,<script>,4156,0,110,0,0,30484
+https://static-01.vndirect.com.vn/js/trade/jquery.debug.js,HTTPS,GET,200,application/javascript,2.68 KB,63 ms,<script>,4156,31,32,0,0,30531
+https://static-01.vndirect.com.vn/js/trade/jquery-ui-1.7.2.js,HTTPS,GET,200,application/javascript,212.27 KB,156 ms,<script>,4156,31,110,15,0,30438
+https://static-01.vndirect.com.vn/js/trade/jquery.lockSubmit.js,HTTPS,GET,200,application/javascript,1.88 KB,78 ms,<script>,4156,47,31,0,0,30516
+https://static-01.vndirect.com.vn/js/trade/i18n.jquery.ui/ui.datepicker-vn.js,HTTPS,GET,200,application/javascript,1.79 KB,94 ms,<script>,4156,63,31,0,0,30500
+https://static-01.vndirect.com.vn/js/trade/i18n.jquery.ui/ui.datepicker-en.js,HTTPS,GET,200,application/javascript,1.65 KB,94 ms,<script>,4156,63,31,0,0,30500
+https://static-01.vndirect.com.vn/js/trade/i18n.jquery.ui/ui.datepicker-ja.js,HTTPS,GET,200,application/javascript,1.27 KB,94 ms,<script>,4156,78,16,0,0,30500
+https://static-01.vndirect.com.vn/js/trade/jquery.layout.js,HTTPS,GET,200,application/javascript,34.18 KB,125 ms,<script>,4156,94,31,0,0,30469
+https://static-01.vndirect.com.vn/js/trade/jquery.layout.helper.js,HTTPS,GET,200,application/javascript,2.46 KB,125 ms,<script>,4156,94,31,0,0,30469
+https://static-01.vndirect.com.vn/js/trade/i18n.jqgrid/grid.locale-en.js,HTTPS,GET,200,application/javascript,3.13 KB,125 ms,<script>,4156,94,31,0,0,30469
+https://static-01.vndirect.com.vn/js/trade/jquery.jqgrid.js,HTTPS,GET,200,application/javascript,178.15 KB,1.34 s,<script>,4156,94,1250,0,0,29250
+https://static-01.vndirect.com.vn/js/trade/jquery.ajaxQueue.js,HTTPS,GET,200,application/javascript,3.18 KB,141 ms,<script>,4156,110,31,0,0,30453
+https://static-01.vndirect.com.vn/js/trade/jquery.autocomplete.js,HTTPS,GET,200,application/javascript,8.24 KB,172 ms,<script>,4156,125,47,0,0,30422
+https://static-01.vndirect.com.vn/js/trade/jquery.bgiframe.js,HTTPS,GET,200,application/javascript,1.80 KB,156 ms,<script>,4156,125,31,0,0,30438
+https://static-01.vndirect.com.vn/js/trade/jquery.form.js,HTTPS,GET,200,application/javascript,22.54 KB,172 ms,<script>,4156,125,47,0,0,30422
+https://static-01.vndirect.com.vn/js/trade/jquery.validate.js,HTTPS,GET,200,application/javascript,34.94 KB,188 ms,<script>,4156,141,47,0,0,30406
+https://static-01.vndirect.com.vn/js/trade/jquery.validate.additional.methods.js,HTTPS,GET,200,application/javascript,8.61 KB,188 ms,<script>,4156,156,16,16,0,30406
+https://static-01.vndirect.com.vn/js/trade/jquery.watermark-2.0.js,HTTPS,GET,200,application/javascript,11.30 KB,188 ms,<script>,4156,156,16,16,0,30406
+https://static-01.vndirect.com.vn/js/trade/jquery.autotab.js,HTTPS,GET,200,application/javascript,4.26 KB,203 ms,<script>,4156,172,31,0,0,30391
+https://static-01.vndirect.com.vn/js/trade/web.jquery.combobox.js,HTTPS,GET,200,application/javascript,2.64 KB,469 ms,<script>,4156,172,297,0,0,30125
+https://static-01.vndirect.com.vn/js/trade/web.jquery.errors.js,HTTPS,GET,200,application/javascript,13.25 KB,219 ms,<script>,4156,188,31,0,0,30375
+https://static-01.vndirect.com.vn/js/trade/web.jquery.pagingnav.js,HTTPS,GET,200,application/javascript,15.14 KB,219 ms,<script>,4156,188,31,0,0,30375
+https://static-01.vndirect.com.vn/js/trade/web.jquery.tables.js,HTTPS,GET,200,application/javascript,3.85 KB,219 ms,<script>,4156,188,31,0,0,30375
+https://static-01.vndirect.com.vn/js/trade/web.jquery.utils.js,HTTPS,GET,200,application/javascript,18.25 KB,0.51 s,<script>,4156,203,297,16,0,30078
+https://static-01.vndirect.com.vn/js/trade/web.jquery.autocomplete.js,HTTPS,GET,200,application/javascript,2.99 KB,235 ms,<script>,4156,219,16,0,0,30359
+https://static-01.vndirect.com.vn/js/trade/web.jquery.checkalive.js,HTTPS,GET,200,application/javascript,2.29 KB,250 ms,<script>,4156,219,31,0,0,30344
+https://static-01.vndirect.com.vn/js/trade/web.jquery.ui.js,HTTPS,GET,200,application/javascript,5.16 KB,250 ms,<script>,4156,219,31,0,0,30344
+https://static-01.vndirect.com.vn/js/trade/NumberFormat154.js,HTTPS,GET,200,application/javascript,9.93 KB,266 ms,<script>,4156,235,31,0,0,30328
+https://static-01.vndirect.com.vn/js/trade/equalcolumns.js,HTTPS,GET,200,application/javascript,2.09 KB,266 ms,<script>,4156,250,16,0,0,30328
+https://static-01.vndirect.com.vn/js/CookieManager.min.js,HTTPS,GET,200,application/javascript,0.91 KB,281 ms,<script>,4156,250,31,0,0,30313
+https://static-01.vndirect.com.vn/js/CrossDomain.min.js,HTTPS,GET,200,application/javascript,0.96 KB,281 ms,<script>,4156,266,15,0,0,30313
+https://www.vndirect.com.vn/trade/js/web/ApiConstants.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.37 KB,1.11 s,<script>,4156,828,282,0,0,29484
+https://www.vndirect.com.vn/trade/js/ui.js?time=20170801071642,HTTPS,GET,200,text/javascript,5.42 KB,1.31 s,<script>,4156,985,328,0,0,29281
+https://www.vndirect.com.vn/trade/js/web/trading.CheckActiveBO.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.15 KB,1.32 s,<script>,4156,1000,328,0,0,29266
+https://www.vndirect.com.vn/trade/js/vndirect.js?time=20170801071642,HTTPS,GET,200,text/javascript,13.93 KB,1.34 s,<script>,4156,1000,344,0,0,29250
+https://www.vndirect.com.vn/trade/js/vndirect.quickLinks.js?time=20170801071642,HTTPS,GET,200,text/javascript,16.55 KB,1.37 s,<script>,4156,1031,344,0,0,29219
+https://www.vndirect.com.vn/trade/js/web/topMenuAnimate.js?time=20170801071642,HTTPS,GET,200,text/javascript,3.12 KB,1.37 s,<script>,4156,1094,281,0,0,29219
+https://www.vndirect.com.vn/trade/js/issuecollector.js?time=20170801071642,HTTPS,GET,200,text/javascript,141.07 KB,1.76 s,<script>,4156,1110,640,16,0,28828
+https://www.vndirect.com.vn/trade/js/UnsupportLibOnSomeBrowser.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.57 KB,1.71 s,<script>,4156,1313,406,0,0,28875
+https://www.vndirect.com.vn/trade/js/DirectBoardAPI.js?time=20170801071642,HTTPS,GET,200,text/javascript,14.90 KB,1.73 s,<script>,4156,1328,407,0,0,28859
+https://www.vndirect.com.vn/trade/js/SockJsConfigure.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.75 KB,1.71 s,<script>,4156,1344,375,0,0,28875
+https://www.vndirect.com.vn/trade/js/AjaxHelper.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.10 KB,1.71 s,<script>,4156,1375,344,0,0,28875
+https://www.vndirect.com.vn/trade/js/vndirect.googleanalytics.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.52 KB,1.71 s,<script>,4156,1375,344,0,0,28875
+https://www.vndirect.com.vn/trade/js/survey/CheckTrackedCustomerSurvey.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.44 KB,2.04 s,<script>,4156,1719,328,0,0,28547
+https://www.vndirect.com.vn/trade/js/web/ActiveAccountManager.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.76 KB,2.06 s,<script>,4156,1719,344,0,0,28531
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/AssetsService.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.98 KB,2.03 s,<script>,4156,1719,312,0,0,28563
+https://www.vndirect.com.vn/trade/js/web/TabManager.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.35 KB,2.04 s,<script>,4156,1719,328,0,0,28547
+https://www.vndirect.com.vn/trade/js/notification/WebsocketConnector.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.18 KB,2.06 s,<script>,4156,1735,328,0,0,28531
+https://www.vndirect.com.vn/trade/js/notification/WebsocketConnectorFactory.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.52 KB,2.04 s,<script>,4156,1766,265,16,0,28547
+https://www.vndirect.com.vn/trade/js/web/track.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.36 KB,2.32 s,<script>,4156,2031,297,0,0,28266
+https://www.vndirect.com.vn/trade/js/web/TradeErrorParser.js?time=20170801071642,HTTPS,GET,200,text/javascript,20.57 KB,2.34 s,<script>,4156,2031,313,0,0,28250
+https://static-01.vndirect.com.vn/js/ngDialog.min.js?time=20170801071642,HTTPS,GET,200,application/javascript,12.24 KB,0.57 s,<script>,4156,266,312,0,0,30016
+https://www.vndirect.com.vn/trade/js/web/trading.portlet.Balance.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.90 KB,2.37 s,<script>,4156,2047,328,0,0,28219
+https://www.vndirect.com.vn/trade/js/web/trading.portlet.PlPosittion.js?time=20170801071642,HTTPS,GET,200,text/javascript,3.27 KB,2.39 s,<script>,4156,2047,344,0,0,28203
+https://www.vndirect.com.vn/trade/js/mvc/quote/QuoteUtils.js?time=20170801071642,HTTPS,GET,200,text/javascript,6.11 KB,2.42 s,<script>,4156,2063,359,0,0,28172
+https://www.vndirect.com.vn/trade/js/mvc/quote/StockModel.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.95 KB,2.39 s,<script>,4156,2063,328,0,0,28203
+https://www.vndirect.com.vn/trade/js/mvc/quote/MarketModel.js?time=20170801071642,HTTPS,GET,200,text/javascript,4.64 KB,2.64 s,<script>,4156,2328,297,16,0,27953
+https://www.vndirect.com.vn/trade/js/mvc/quote/StockView.js?time=20170801071642,HTTPS,GET,200,text/javascript,7.19 KB,2.64 s,<script>,4156,2344,281,16,0,27953
+https://www.vndirect.com.vn/trade/js/mvc/quote/MarketView.js?time=20170801071642,HTTPS,GET,200,text/javascript,12.85 KB,2.71 s,<script>,4156,2375,344,0,0,27875
+https://www.vndirect.com.vn/trade/js/mvc/quote/StockController.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.10 KB,2.75 s,<script>,4156,2391,359,0,0,27844
+https://www.vndirect.com.vn/trade/js/mvc/quote/MarketController.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.86 KB,2.75 s,<script>,4156,2391,359,0,0,27844
+https://www.vndirect.com.vn/trade/js/mvc/quote/QuoteDataProvider.js?time=20170801071642,HTTPS,GET,200,text/javascript,4.42 KB,2.78 s,<script>,4156,2422,359,0,0,27813
+https://www.vndirect.com.vn/trade/js/mvc/quote/QuoteMain.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.51 KB,2.90 s,<script>,4156,2625,281,0,0,27688
+https://www.vndirect.com.vn/trade/js/web/enterOrders/TradeApiService.js?time=20170801071642,HTTPS,GET,200,text/javascript,2.43 KB,2.90 s,<script>,4156,2625,281,0,0,27688
+https://www.vndirect.com.vn/trade/js/web/enterOrders/EnterOrderMain.js?time=20170801071642,HTTPS,GET,200,text/javascript,12.70 KB,3.04 s,<script>,4156,2719,328,0,0,27547
+https://www.vndirect.com.vn/trade/js/web/enterOrders/EnterOrderModel.js?time=20170801071642,HTTPS,GET,200,text/javascript,3.25 KB,3.07 s,<script>,4156,2750,328,0,0,27516
+https://www.vndirect.com.vn/trade/js/web/enterOrders/EnterOrderView.js?time=20170801071642,HTTPS,GET,200,text/javascript,26.37 KB,3.09 s,<script>,4156,2750,344,0,0,27500
+https://www.vndirect.com.vn/trade/js/web/enterOrders/EnterOrderComp.js?time=20170801071642,HTTPS,GET,200,text/javascript,35.42 KB,3.12 s,<script>,4156,2781,344,0,0,27469
+https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,HTTPS,GET,200,text/css,27.24 KB,47 ms,"<link rel=""stylesheet"">",4156,16,31,0,0,30547
+https://static-01.vndirect.com.vn/cms/css/style-api.css?eaeef159da63373b94eb49c86508fc22,HTTPS,GET,200,text/css,15.02 KB,47 ms,"<link rel=""stylesheet"">",4172,15,32,0,0,30531
+https://static-01.vndirect.com.vn/cms/js/custom_api.js?eaeef159da63373b94eb49c86508fc22,HTTPS,GET,200,application/javascript,20.59 KB,297 ms,<script>,4172,265,32,0,0,30281
+https://www.vndirect.com.vn/trade/js/notification/EventManager.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.87 KB,3.17 s,<script>,4172,2890,282,0,0,27406
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/CustomerInfoService.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.75 KB,3.17 s,<script>,4172,2890,282,0,0,27406
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/OrderStatusNotificationService.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.79 KB,3.35 s,<script>,4172,3031,328,0,0,27219
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/NotiSettingService.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.34 KB,3.40 s,<script>,4172,3062,344,0,0,27172
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/OrderSideFilter.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.57 KB,3.40 s,<script>,4172,3078,328,0,0,27172
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/OrderPriceFilter.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.62 KB,3.45 s,<script>,4172,3109,344,0,0,27125
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NumberCountingFilter.js?time=20170801071642,HTTPS,GET,200,text/javascript,469 B,3.45 s,<script>,4172,3172,281,0,0,27125
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/ToggleNotiDirective.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.13 KB,3.75 s,<script>,4172,3359,391,0,0,26828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/WatchScrollPosDirective.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.71 KB,3.75 s,<script>,4172,3406,344,0,0,26828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NotificationConverter.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.39 KB,3.75 s,<script>,4172,3406,344,0,0,26828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NotificationController.js?time=20170801071642,HTTPS,GET,200,text/javascript,5.26 KB,3.75 s,<script>,4172,3453,297,0,0,26828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NotificationDirective.js?time=20170801071642,HTTPS,GET,200,text/javascript,0.51 KB,3.79 s,<script>,4172,3453,344,0,0,26781
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/OrderStatusNotificationDirective.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.56 KB,4.07 s,<script>,4172,3750,328,0,0,26500
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NotificationComponent.js?time=20170801071642,HTTPS,GET,200,text/javascript,1.36 KB,4.07 s,<script>,4172,3750,328,0,0,26500
+https://www.vndirect.com.vn/trade/css/font-awesome.min.css,HTTPS,GET,200,text/css,28.70 KB,1.07 s,"<link rel=""stylesheet"">",4172,812,266,0,0,29500
+https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js,HTTPS,GET,200,application/javascript,58.26 KB,78 ms,<script>,7281,0,78,0,0,27391
+https://static-01.vndirect.com.vn/cms/fonts/helvetica-neue-regular.ttf,HTTPS,GET,200,application/octet-stream,249.98 KB,47 ms,@font-face,7297,0,47,0,0,27406
+https://www.vndirect.com.vn/trade/css/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3,HTTPS,GET,200,,75.06 KB,0.93 s,@font-face,7297,47,890,0,0,26516
+https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?#iefix&v=4.5.0,HTTPS,GET,200,application/vnd.ms-fontobject,69.59 KB,125 ms,@font-face,7297,0,47,78,0,27328
+https://api.mixpanel.com/decide/?verbose=1&version=1&lib=web&token=cd9ae8452a76e95a30c43ceedbfdd456&ip=1&_=1502084386592,HTTPS,GET,200,application/json,0.51 KB,187 ms,XMLHttpRequest,7375,109,78,0,0,27188
+https://api.mixpanel.com/track/?data=eyJldmVudCI6ICJtcF9wYWdlX3ZpZXciLCJwcm9wZXJ0aWVzIjogeyIkb3MiOiAiV2luZG93cyIsIiRicm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwiJHJlZmVycmVyIjogImh0dHBzOi8vd3d3LnZuZGlyZWN0LmNvbS52bi90cmFkZS9naWFvLWRpY2gtY28tcGhpZXUva2llbS10cmEtdGhlLXZ0b3Muc2h0bWwiLCIkcmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cudm5kaXJlY3QuY29tLnZuIiwiJGN1cnJlbnRfdXJsIjogImh0dHBzOi8vd3d3LnZuZGlyZWN0LmNvbS52bi90cmFkZS9naWFvLWRpY2gtY28tcGhpZXUvZGF0LWxlbmgtbXVhLWJhbi5zaHRtbD9yZXF1ZXN0X2xvY2FsZT1lbl9HQiIsIiRicm93c2VyX3ZlcnNpb24iOiAxMSwiJHNjcmVlbl9oZWlnaHQiOiA4NjQsIiRzY3JlZW5fd2lkdGgiOiAxNTM2LCJtcF9saWIiOiAid2ViIiwiJGxpYl92ZXJzaW9uIjogIjIuMTMuMCIsImRpc3RpbmN0X2lkIjogInRob25ndHJhbmhvYW5nQHlhaG9vLmNvbS5zZyIsIiRpbml0aWFsX3JlZmVycmVyIjogIiRkaXJlY3QiLCIkaW5pdGlhbF9yZWZlcnJpbmdfZG9tYWluIjogIiRkaXJlY3QiLCJDaGFubmVsIjogInNtYXJ0Ym9hcmQiLCJtcF9wYWdlIjogImh0dHBzOi8vd3d3LnZuZGlyZWN0LmNvbS52bi90cmFkZS9naWFvLWRpY2gtY28tcGhpZXUvZGF0LWxlbmgtbXVhLWJhbi5zaHRtbD9yZXF1ZXN0X2xvY2FsZT1lbl9HQiIsIm1wX3JlZmVycmVyIjogImh0dHBzOi8vd3d3LnZuZGlyZWN0LmNvbS52bi90cmFkZS9naWFvLWRpY2gtY28tcGhpZXUva2llbS10cmEtdGhlLXZ0b3Muc2h0bWwiLCJtcF9icm93c2VyIjogIkludGVybmV0IEV4cGxvcmVyIiwibXBfcGxhdGZvcm0iOiAiV2luZG93cyIsInRva2VuIjogImNkOWFlODQ1MmE3NmU5NWEzMGM0M2NlZWRiZmRkNDU2In19&ip=1&_=1502084386600,HTTPS,GET,200,application/json,466 B,218 ms,XMLHttpRequest,7391,156,62,0,0,27141
+https://api.mixpanel.com/track/?data=eyJldmVudCI6ICIkd2ViX2V2ZW50IiwicHJvcGVydGllcyI6IHsiJG9zIjogIldpbmRvd3MiLCIkYnJvd3NlciI6ICJJbnRlcm5ldCBFeHBsb3JlciIsIiRyZWZlcnJlciI6ICJodHRwczovL3d3dy52bmRpcmVjdC5jb20udm4vdHJhZGUvZ2lhby1kaWNoLWNvLXBoaWV1L2tpZW0tdHJhLXRoZS12dG9zLnNodG1sIiwiJHJlZmVycmluZ19kb21haW4iOiAid3d3LnZuZGlyZWN0LmNvbS52biIsIiRjdXJyZW50X3VybCI6ICJodHRwczovL3d3dy52bmRpcmVjdC5jb20udm4vdHJhZGUvZ2lhby1kaWNoLWNvLXBoaWV1L2RhdC1sZW5oLW11YS1iYW4uc2h0bWw%2FcmVxdWVzdF9sb2NhbGU9ZW5fR0IiLCIkYnJvd3Nlcl92ZXJzaW9uIjogMTEsIiRzY3JlZW5faGVpZ2h0IjogODY0LCIkc2NyZWVuX3dpZHRoIjogMTUzNiwibXBfbGliIjogIndlYiIsIiRsaWJfdmVyc2lvbiI6ICIyLjEzLjAiLCJkaXN0aW5jdF9pZCI6ICJ0aG9uZ3RyYW5ob2FuZ0B5YWhvby5jb20uc2ciLCIkaW5pdGlhbF9yZWZlcnJlciI6ICIkZGlyZWN0IiwiJGluaXRpYWxfcmVmZXJyaW5nX2RvbWFpbiI6ICIkZGlyZWN0IiwiQ2hhbm5lbCI6ICJzbWFydGJvYXJkIiwiJHRpdGxlIjogIlZORElSRUNUIC0gT25saW5lIFRyYWRpbmcgfCBPcmRlcmluZyIsIiRldmVudF90eXBlIjogInBhZ2V2aWV3IiwiJGNlX3ZlcnNpb24iOiAxLCIkaG9zdCI6ICJ3d3cudm5kaXJlY3QuY29tLnZuIiwiJHBhdGhuYW1lIjogIi90cmFkZS9naWFvLWRpY2gtY28tcGhpZXUvZGF0LWxlbmgtbXVhLWJhbi5zaHRtbCIsInRva2VuIjogImNkOWFlODQ1MmE3NmU5NWEzMGM0M2NlZWRiZmRkNDU2IiwiJF9fYyI6IDB9fQ%3D%3D&ip=1&_=1502084386772,HTTPS,GET,200,application/json,466 B,47 ms,XMLHttpRequest,7562,0,47,0,0,27141
+https://www.vndirect.com.vn/trade/json/getCustomerInfo.shtml,HTTPS,GET,200,application/json,0.51 KB,0.56 s,XMLHttpRequest,8266,15,547,0,0,25922
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/NotificationTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,1.74 KB,0.54 s,XMLHttpRequest,8281,0,547,0,0,25922
+https://api.mixpanel.com/decide/?verbose=1&version=2&lib=web&token=cd9ae8452a76e95a30c43ceedbfdd456&distinct_id=thongtranhoang%40yahoo.com.sg&ip=1&_=1502084387487,HTTPS,GET,200,application/json,0.51 KB,1.31 s,XMLHttpRequest,8281,0,1313,0,0,25156
+https://v2.zopim.com/?3YktgKwqWaNvJ6ryNkn8V8buqe8I60Sa,HTTPS,GET,302,application/octet-stream,473 B,31 ms,<script>,8281,0,31,0,0,26438
+https://ssl.google-analytics.com/ga.js,HTTPS,GET,200,text/javascript,42.43 KB,31 ms,<script>,8281,0,16,15,0,26438
+https://v2.zopim.com/bin/v/widget_v2.210.js,HTTPS,GET,200,application/javascript,1.01 MB,47 ms,<script>,8312,0,47,0,0,26391
+https://www.vndirect.com.vn/portal/ajax/news/NewsGetVNDSNews.shtml,HTTPS,POST,302,,337 B,313 ms,XMLHttpRequest,8328,0,313,0,0,26109
+https://www.vndirect.com.vn/trade/ajax/home/PortletMarketOverview.shtml,HTTPS,POST,200,application/json,3.00 KB,485 ms,XMLHttpRequest,8359,0,485,0,0,25906
+https://www.vndirect.com.vn/trade/ajax/trading/InitPortletPlPositions.shtml,HTTPS,POST,200,application/json,7.61 KB,1.03 s,XMLHttpRequest,8375,0,469,562,0,25344
+https://www.vndirect.com.vn/trade/ajax/trading/TdEnterOrder_GetPriceTypeList.shtml,HTTPS,POST,200,application/json,5.51 KB,0.79 s,XMLHttpRequest,8375,0,469,328,0,25578
+https://www.vndirect.com.vn/trade/ajax/trading/TdEnterOrder_GetPriceTypeList.shtml,HTTPS,POST,200,application/json,5.51 KB,0.78 s,XMLHttpRequest,8391,437,16,328,0,25578
+https://www.vndirect.com.vn/trade/giao-dich-co-phieu/body-so-lenh.shtml,HTTPS,POST,200,text/html,17.65 KB,0.79 s,XMLHttpRequest,8391,453,343,0,0,25563
+https://www.vndirect.com.vn/trade/giao-dich-co-phieu/body-lenh-dieu-kien-so-lenh.shtml,HTTPS,POST,200,text/html,17.02 KB,0.81 s,XMLHttpRequest,8391,531,281,0,0,25547
+https://www.vndirect.com.vn/trade/bao-cao-quan-ly/body-lai-lo-danh-muc.shtml,HTTPS,POST,200,text/html,15.27 KB,1.10 s,XMLHttpRequest,8391,781,328,0,0,25250
+https://www.vndirect.com.vn/trade/ajax/account/getAccountTradingInfo.shtml?accountNumber=,HTTPS,POST,200,text/html,6.66 KB,1.12 s,XMLHttpRequest,8391,781,344,0,0,25234
+https://trade-api.vndirect.com.vn//customer,HTTPS,OPTIONS,200,,0.72 KB,1.04 s,CORS Preflight,8406,797,250,0,0,25297
+https://finfo-api.vndirect.com.vn/stocks?status=all,HTTPS,GET,302,text/html,0.74 KB,0.98 s,XMLHttpRequest,8406,656,329,0,0,25359
+https://priceservice.vndirect.com.vn/priceservice/market/snapshot/q=codes:10,HTTPS,POST,200,application/json,0.78 KB,438 ms,XMLHttpRequest,8406,0,438,0,0,25906
+https://priceservice.vndirect.com.vn/priceservice/market/snapshot/q=codes:02,HTTPS,POST,200,application/json,0.99 KB,438 ms,XMLHttpRequest,8406,0,438,0,0,25906
+https://ssl.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=29&utmn=1769095854&utmhn=www.vndirect.com.vn&utmcs=utf-8&utmsr=1536x864&utmvp=1002x632&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=19.0%20r0&utmdt=VNDIRECT%20-%20Online%20Trading%20%7C%20Ordering&utmhid=1740076453&utmr=0&utmp=%2Ftrade%2Fgiao-dich-co-phieu%2Fdat-lenh-mua-ban.shtml%3Frequest_locale%3Den_GB&utmht=1502084387669&utmac=UA-2025955-1&utmcc=__utma%3D146823024.133363187.1501862227.1501862403.1502083449.2%3B%2B__utmz%3D146823024.1501862403.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~,HTTPS,GET,200,image/gif,386 B,16 ms,<img>,8453,0,16,0,0,26281
+https://www.vndirect.com.vn/trade/css/survey/images/SurveyPopup.png,HTTPS,GET,200,image/png,309.42 KB,4.04 s,background-image,8453,156,672,3219,0,22250
+https://www.vndirect.com.vn/trade/css/jquery.ui/redmond/images/ui-icons_d8e7f3_256x240.png,HTTPS,GET,200,image/png,4.63 KB,469 ms,background-image,8453,188,281,0,0,25828
+https://www.vndirect.com.vn/portal/ajax/news/NewsGetVNDSNews.shtml,HTTPS,POST,200,text/html,3.73 KB,0.89 s,XMLHttpRequest,8641,546,344,0,0,25219
+https://v2.zopim.com/lib/20170801.073723/__$$__stringtable_lang_vi.js,HTTPS,GET,200,application/javascript,7.50 KB,62 ms,<script>,8672,0,62,0,0,26016
+https://ssl.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=30&utmn=1245073760&utmhn=www.vndirect.com.vn&utmcs=utf-8&utmsr=1536x864&utmvp=1002x632&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=19.0%20r0&utmdt=VNDIRECT%20-%20Online%20Trading%20%7C%20Ordering&utmhid=1740076453&utmr=0&utmp=%2Ftrade%2Fgiao-dich-co-phieu%2Fdat-lenh-mua-ban.shtml%3Frequest_locale%3Den_GB&utmht=1502084388022&utmac=UA-2025955-1&utmcc=__utma%3D146823024.133363187.1501862227.1501862403.1502083449.2%3B%2B__utmz%3D146823024.1501862403.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmmt=1&utmu=rAAAAAAAAAAAAAAAAAAAAAAE~,HTTPS,GET,200,image/gif,386 B,16 ms,<img>,8812,0,16,0,0,25922
+https://www.vndirect.com.vn/trade/ajax/trading/TdEnterOrder_GetPriceTypeList.shtml,HTTPS,POST,200,application/json,5.51 KB,0.93 s,XMLHttpRequest,8828,656,0,282,0,24984
+https://websocket.vndirect.com.vn/notisocket/notification/getActiveStatus/0101003466?callback=angular.callbacks._0,HTTPS,GET,200,application/javascript,466 B,265 ms,<script>,8844,0,265,0,0,25641
+https://price-int.vndirect.com.vn/realtime/info,HTTPS,GET,200,application/json,356 B,328 ms,XMLHttpRequest,8875,0,328,0,0,25547
+https://websocket.vndirect.com.vn/notisocket/getCounting?callback=angular.callbacks._1&customerId=0101003466,HTTPS,GET,200,application/javascript,499 B,266 ms,<script>,9109,0,266,0,0,25375
+https://www.vndirect.com.vn/trade/css/vnds_page_solenh.css?time=@time_param@,HTTPS,GET,200,text/css,31.06 KB,297 ms,"<link rel=""stylesheet"">",9187,16,281,0,0,25266
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/OrderStatusReferenceDataService.js?time=@time_param@&_=1502084388405,HTTPS,GET,200,text/javascript,1.20 KB,469 ms,XMLHttpRequest,9203,203,266,0,0,25078
+https://finfoapi-as.vndirect.com.vn/stocks?status=all,HTTPS,GET,200,application/json,0.59 MB,1.89 s,XMLHttpRequest,9391,609,1281,0,0,23469
+https://trade-api.vndirect.com.vn//customer,HTTPS,GET,200,application/json,0.86 KB,0.59 s,XMLHttpRequest,9453,0,594,0,0,24703
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/OrderTypeReferenceDataService.js?time=@time_param@&_=1502084388889,HTTPS,GET,200,text/javascript,0.77 KB,281 ms,XMLHttpRequest,9672,0,281,0,0,24797
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/PriceTypeReferenceDataService.js?time=@time_param@&_=1502084389164,HTTPS,GET,200,text/javascript,0.79 KB,313 ms,XMLHttpRequest,9953,0,313,0,0,24484
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/CompanyInfoService.js?time=@time_param@&_=1502084389496,HTTPS,GET,200,text/javascript,1.56 KB,313 ms,XMLHttpRequest,10281,0,313,0,0,24156
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/OrderStatusSelectDirective.js?time=@time_param@&_=1502084389802,HTTPS,GET,200,text/javascript,1.14 KB,312 ms,XMLHttpRequest,10594,0,312,0,0,23844
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/OrderTypeSelectDirective.js?time=@time_param@&_=1502084390110,HTTPS,GET,200,text/javascript,1.10 KB,281 ms,XMLHttpRequest,10906,0,281,0,0,23563
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/AjaxLoadingDirective.js?time=@time_param@&_=1502084390401,HTTPS,GET,200,text/javascript,0.55 KB,313 ms,XMLHttpRequest,11187,0,313,0,0,23250
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/guide/ToggleTooltipDirective.js?time=@time_param@&_=1502084390715,HTTPS,GET,200,text/javascript,1.29 KB,312 ms,XMLHttpRequest,11500,0,312,0,0,22938
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/UpperCaseDirective.js?time=@time_param@&_=1502084391026,HTTPS,GET,200,text/javascript,0.51 KB,297 ms,XMLHttpRequest,11812,0,297,0,0,22641
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/NumberFilter.js?time=@time_param@&_=1502084391322,HTTPS,GET,200,text/javascript,0.53 KB,313 ms,XMLHttpRequest,12109,0,313,0,0,22328
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/OrderStatusFilter.js?time=@time_param@&_=1502084391629,HTTPS,GET,200,text/javascript,1.77 KB,406 ms,XMLHttpRequest,12422,0,406,0,0,21922
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/TradeApiOrderSideFilter.js?time=@time_param@&_=1502084392036,HTTPS,GET,200,text/javascript,0.73 KB,313 ms,XMLHttpRequest,12828,0,313,0,0,21609
+https://www.vndirect.com.vn/trade/js/web/TradeErrorParser.js?time=@time_param@&_=1502084392346,HTTPS,GET,200,text/javascript,20.57 KB,312 ms,XMLHttpRequest,13141,0,312,0,0,21297
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/service/OrderCheckerService.js?time=@time_param@&_=1502084392659,HTTPS,GET,200,text/javascript,1.94 KB,281 ms,XMLHttpRequest,13453,0,281,0,0,21016
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/directive/OrderBookSearchDirective.js?time=@time_param@&_=1502084392937,HTTPS,GET,200,text/javascript,0.62 KB,282 ms,XMLHttpRequest,13734,0,282,0,0,20734
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/controller/OrderBookSearchController.js?time=@time_param@&_=1502084393232,HTTPS,GET,200,text/javascript,0.64 KB,343 ms,XMLHttpRequest,14016,0,343,0,0,20391
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/component/OrderBookSearchComponent.js?time=@time_param@&_=1502084393575,HTTPS,GET,200,text/javascript,0.95 KB,313 ms,XMLHttpRequest,14359,0,313,0,0,20078
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/directive/OrderBookRowDirective.js?time=@time_param@&_=1502084393885,HTTPS,GET,200,text/javascript,5.36 KB,312 ms,XMLHttpRequest,14672,0,312,0,0,19766
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/directive/OrderBookTableDirective.js?time=@time_param@&_=1502084394192,HTTPS,GET,200,text/javascript,0.53 KB,313 ms,XMLHttpRequest,14984,0,313,0,0,19453
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/controller/OrderBookTableController.js?time=@time_param@&_=1502084394505,HTTPS,GET,200,text/javascript,2.50 KB,297 ms,XMLHttpRequest,15297,0,297,0,0,19156
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/component/OrderBookTableComponent.js?time=@time_param@&_=1502084394811,HTTPS,GET,200,text/javascript,1.40 KB,297 ms,XMLHttpRequest,15609,0,297,0,0,18844
+https://www.vndirect.com.vn/trade/js/web/orderBook/orderbook-body/OrderBookBodyDirective.js?time=@time_param@&_=1502084395111,HTTPS,GET,200,text/javascript,0.51 KB,313 ms,XMLHttpRequest,15906,0,313,0,0,18531
+https://www.vndirect.com.vn/trade/js/web/orderBook/orderbook-body/OrderBookService.js?time=@time_param@&_=1502084395430,HTTPS,GET,200,text/javascript,2.99 KB,312 ms,XMLHttpRequest,16219,0,312,0,0,18219
+https://www.vndirect.com.vn/trade/js/web/orderBook/orderbook-body/OrderbookBodyController.js?time=@time_param@&_=1502084395745,HTTPS,GET,200,text/javascript,8.71 KB,281 ms,XMLHttpRequest,16531,0,281,0,0,17938
+https://www.vndirect.com.vn/trade/js/web/orderBook/orderbook-body/OrderbookBodyApp.js?time=@time_param@&_=1502084396024,HTTPS,GET,200,text/javascript,1.84 KB,329 ms,XMLHttpRequest,16812,0,329,0,0,17609
+https://www.vndirect.com.vn/trade/js/web/orderBook/orderbook-body/OrderBookBodyTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,4.81 KB,296 ms,XMLHttpRequest,17141,0,296,0,0,17313
+https://websocket.vndirect.com.vn/notisocket/notification/orderstatus?accounts%5B%5D=0101002672&callback=angular.callbacks._2,HTTPS,GET,200,application/javascript,4.36 KB,296 ms,<script>,17141,0,296,0,0,17313
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/OrderStatusReferenceDataService.js?time=@time_param@&_=1502084396396,HTTPS,GET,200,text/javascript,1.20 KB,329 ms,XMLHttpRequest,17187,0,329,0,0,17234
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/OrderTypeReferenceDataService.js?time=@time_param@&_=1502084396743,HTTPS,GET,200,text/javascript,0.77 KB,422 ms,XMLHttpRequest,17531,0,422,0,0,16797
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/PriceTypeReferenceDataService.js?time=@time_param@&_=1502084397164,HTTPS,GET,200,text/javascript,0.79 KB,406 ms,XMLHttpRequest,17953,0,406,0,0,16391
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/service/CompanyInfoService.js?time=@time_param@&_=1502084397570,HTTPS,GET,200,text/javascript,1.56 KB,407 ms,XMLHttpRequest,18359,0,407,0,0,15984
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/OrderStatusSelectDirective.js?time=@time_param@&_=1502084397978,HTTPS,GET,200,text/javascript,1.14 KB,421 ms,XMLHttpRequest,18766,0,421,0,0,15563
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/OrderTypeSelectDirective.js?time=@time_param@&_=1502084398392,HTTPS,GET,200,text/javascript,1.10 KB,407 ms,XMLHttpRequest,19187,0,407,0,0,15156
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/AjaxLoadingDirective.js?time=@time_param@&_=1502084398798,HTTPS,GET,200,text/javascript,0.55 KB,406 ms,XMLHttpRequest,19594,0,406,0,0,14750
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/guide/ToggleTooltipDirective.js?time=@time_param@&_=1502084399206,HTTPS,GET,200,text/javascript,1.29 KB,406 ms,XMLHttpRequest,20000,0,406,0,0,14344
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/UpperCaseDirective.js?time=@time_param@&_=1502084399621,HTTPS,GET,200,text/javascript,0.51 KB,344 ms,XMLHttpRequest,20406,0,344,0,0,14000
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/NumberFilter.js?time=@time_param@&_=1502084399954,HTTPS,GET,200,text/javascript,0.53 KB,375 ms,XMLHttpRequest,20750,0,375,0,0,13625
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/OrderStatusFilter.js?time=@time_param@&_=1502084400339,HTTPS,GET,200,text/javascript,1.77 KB,406 ms,XMLHttpRequest,21125,0,406,0,0,13219
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/CoRelationalFilter.js?time=@time_param@&_=1502084400746,HTTPS,GET,200,text/javascript,0.80 KB,406 ms,XMLHttpRequest,21531,0,406,0,0,12813
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/TradeApiOrderSideFilter.js?time=@time_param@&_=1502084401152,HTTPS,GET,200,text/javascript,0.73 KB,344 ms,XMLHttpRequest,21937,0,344,0,0,12469
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/GtdDatePickerDirective.js?time=@time_param@&_=1502084401487,HTTPS,GET,200,text/javascript,2.42 KB,344 ms,XMLHttpRequest,22281,0,344,0,0,12125
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/NumberOnlyDirective.js?time=@time_param@&_=1502084401829,HTTPS,GET,200,text/javascript,1.26 KB,344 ms,XMLHttpRequest,22625,0,344,0,0,11781
+https://www.vndirect.com.vn/trade/js/web/TradeErrorParser.js?time=@time_param@&_=1502084402177,HTTPS,GET,200,text/javascript,20.57 KB,343 ms,XMLHttpRequest,22969,0,343,0,0,11438
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/service/OrderCheckerService.js?time=@time_param@&_=1502084402528,HTTPS,GET,200,text/javascript,1.94 KB,344 ms,XMLHttpRequest,23312,0,344,0,0,11094
+https://www.vndirect.com.vn/trade/js/web/orderBook/conditional/OrderBookBodyDirective.js?time=@time_param@&_=1502084402869,HTTPS,GET,200,text/javascript,0.67 KB,438 ms,XMLHttpRequest,23656,0,438,0,0,10656
+https://www.vndirect.com.vn/trade/js/web/orderBook/conditional/OrderBookService.js?time=@time_param@&_=1502084403304,HTTPS,GET,200,text/javascript,4.54 KB,406 ms,XMLHttpRequest,24094,0,406,0,0,10250
+https://www.vndirect.com.vn/trade/js/web/orderBook/conditional/ConditionalOrderbookBodyController.js?time=@time_param@&_=1502084403715,HTTPS,GET,200,text/javascript,7.58 KB,422 ms,XMLHttpRequest,24500,0,422,0,0,9828
+https://www.vndirect.com.vn/trade/js/web/orderBook/conditional/ConditionalOrderbookBodyApp.js?time=@time_param@&_=1502084404129,HTTPS,GET,200,text/javascript,3.13 KB,375 ms,XMLHttpRequest,24922,0,375,0,0,9453
+https://www.vndirect.com.vn/trade/js/web/orderBook/conditional/ConditionalOrderBookTemplate.html?timestamp=1502084404503,HTTPS,GET,200,text/html,12.35 KB,344 ms,XMLHttpRequest,25297,0,344,0,0,9109
+https://www.vndirect.com.vn/trade/js/highcharts.js?time=@time_param@&_=1502084404510,HTTPS,GET,200,text/javascript,119.64 KB,0.64 s,XMLHttpRequest,25297,0,625,15,0,8813
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/ColorClassFilter.js?time=@time_param@&_=1502084405148,HTTPS,GET,200,text/javascript,0.53 KB,313 ms,XMLHttpRequest,25937,0,313,0,0,8500
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/PercentFilter.js?time=@time_param@&_=1502084405462,HTTPS,GET,200,text/javascript,0.55 KB,297 ms,XMLHttpRequest,26250,0,297,0,0,8203
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/NumberFilter.js?time=@time_param@&_=1502084405764,HTTPS,GET,200,text/javascript,0.53 KB,313 ms,XMLHttpRequest,26562,0,313,0,0,7875
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/filter/TradingPlaceFilter.js?time=@time_param@&_=1502084406094,HTTPS,GET,200,text/javascript,0.52 KB,390 ms,XMLHttpRequest,26891,0,390,0,0,7469
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/AjaxLoadingDirective.js?time=@time_param@&_=1502084406493,HTTPS,GET,200,text/javascript,0.55 KB,281 ms,XMLHttpRequest,27281,0,281,0,0,7188
+https://www.vndirect.com.vn/trade/js/web/portfolio/PortfolioService.js?time=@time_param@&_=1502084406770,HTTPS,GET,200,text/javascript,1.43 KB,282 ms,XMLHttpRequest,27562,0,282,0,0,6906
+https://www.vndirect.com.vn/trade/js/web/portfolio/gainloss/GainLossPortfolioDirective.js?time=@time_param@&_=1502084407046,HTTPS,GET,200,text/javascript,0.51 KB,265 ms,XMLHttpRequest,27844,0,265,0,0,6641
+https://www.vndirect.com.vn/trade/js/web/portfolio/gainloss/GainLossPortfolioController.js?time=@time_param@&_=1502084407325,HTTPS,GET,200,text/javascript,1.12 KB,391 ms,XMLHttpRequest,28109,16,375,0,0,6250
+https://www.vndirect.com.vn/trade/js/web/portfolio/gainloss/GainLossPortfolioFactory.js?time=@time_param@&_=1502084407709,HTTPS,GET,200,text/javascript,2.63 KB,281 ms,XMLHttpRequest,28500,0,281,0,0,5969
+https://www.vndirect.com.vn/trade/js/web/portfolio/gainloss/GainLossPortfolioComponent.js?time=@time_param@&_=1502084407990,HTTPS,GET,200,text/javascript,1.05 KB,328 ms,XMLHttpRequest,28781,0,328,0,0,5641
+https://www.vndirect.com.vn/trade/js/web/portfolio/gainloss/GainLossTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,4.05 KB,266 ms,XMLHttpRequest,29125,0,266,0,0,5359
+https://vndirect.com.vn/stock-lend-embed/,HTTPS,,(Aborted),,0 B,< 1 ms,frame navigate,29125,0,0,0,0,5625
+https://trade-api.vndirect.com.vn/accounts/0101002672/pp0,HTTPS,OPTIONS,200,,0.72 KB,266 ms,CORS Preflight,29125,0,266,0,0,5359
+https://trade-api.vndirect.com.vn/accounts/v2/0101002672/assets,HTTPS,OPTIONS,200,,0.72 KB,281 ms,CORS Preflight,29125,0,281,0,0,5344
+https://vndirect.com.vn/stock-lend-embed?accNo=0101002672,HTTPS,GET,301,text/html,359 B,1.26 s,frame navigate,29125,953,313,0,0,4359
+https://trade-api.vndirect.com.vn/accounts/0101002672/autotrade/isSupported,HTTPS,OPTIONS,200,,0.72 KB,0.50 s,CORS Preflight,29141,250,250,0,0,5109
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/SentOrderTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,0.74 KB,344 ms,XMLHttpRequest,29172,0,344,0,0,5234
+https://www.vndirect.com.vn/trade/js/web/angularmodule/notification/ExpiredOrderTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,0.74 KB,281 ms,XMLHttpRequest,29172,0,281,0,0,5297
+https://price-int.vndirect.com.vn/priceservice/company/snapshot/?jsonp=jQuery1830818590963984162_1502084384433&_=1502084408430,HTTPS,GET,200,application/json,120.11 KB,0.70 s,<script>,29219,0,703,0,0,4828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/directive/OrderBookTableTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,1.52 KB,343 ms,XMLHttpRequest,29219,15,328,0,0,5188
+https://trade-api.vndirect.com.vn/accounts/0101002672/orders?index=0&offset=10,HTTPS,OPTIONS,200,,0.72 KB,438 ms,CORS Preflight,29234,172,266,0,0,5078
+https://trade-api.vndirect.com.vn/accounts/0101002672/autotrade/stop/orders,HTTPS,OPTIONS,200,,0.72 KB,0.65 s,CORS Preflight,29250,391,265,0,0,4844
+https://price-int.vndirect.com.vn/realtime/info,HTTPS,GET,200,application/json,356 B,0.92 s,XMLHttpRequest,29312,610,312,0,0,4516
+https://trade-api.vndirect.com.vn/accounts/0101002672/pp0,HTTPS,GET,200,application/json,0.81 KB,0.64 s,XMLHttpRequest,29391,281,359,0,0,4719
+https://www.vndirect.com.vn/trade/ajax/portfolio/getPortfolio.shtml,HTTPS,POST,200,application/json,64.64 KB,0.59 s,XMLHttpRequest,29406,0,0,594,0,4750
+https://trade-api.vndirect.com.vn/accounts/v2/0101002672/assets,HTTPS,GET,200,application/json,1.57 KB,0.79 s,XMLHttpRequest,29406,500,297,0,0,4547
+https://www.vndirect.com.vn/trade/js/web/angularmodule/common/directive/guide/ToggleTooltipTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,0.89 KB,344 ms,XMLHttpRequest,29578,0,344,0,0,4828
+https://www.vndirect.com.vn/trade/js/web/angularmodule/orderbook/directive/OrderBookRowTemplate.html?timestamp=3.8.20_20170801071642,HTTPS,GET,200,text/html,4.44 KB,328 ms,XMLHttpRequest,29578,0,328,0,0,4844
+https://www.vndirect.com.vn/trade/json/getOrderTypeList.shtml,HTTPS,GET,200,application/json,0.80 KB,266 ms,XMLHttpRequest,29578,0,266,0,0,4906
+https://www.vndirect.com.vn/trade/json/getOriginOrderPriceTypeList.shtml,HTTPS,GET,200,application/json,1.56 KB,328 ms,XMLHttpRequest,29578,0,328,0,0,4844
+https://trade-api.vndirect.com.vn/accounts/0101002672/autotrade/isSupported,HTTPS,GET,200,application/json,0.76 KB,0.67 s,XMLHttpRequest,29641,390,281,0,0,4438
+https://trade-api.vndirect.com.vn/accounts/0101002672/orders?index=0&offset=10,HTTPS,GET,200,application/json,66.60 KB,0.64 s,XMLHttpRequest,29672,359,281,0,0,4438
+https://trade-api.vndirect.com.vn/accounts/0101002672/autotrade/stop/orders,HTTPS,GET,200,application/json,0.74 KB,0.57 s,XMLHttpRequest,29906,250,328,0,0,4266
+https://trade-api.vndirect.com.vn/accounts/0101002672/orders?index=0&offset=10,HTTPS,OPTIONS,200,,0.72 KB,0.53 s,CORS Preflight,29937,266,266,0,0,4281
+https://www.vndirect.com.vn/stock-lend-embed?accNo=0101002672,HTTPS,GET,301,text/html,483 B,0.70 s,frame navigate,30391,0,703,0,0,3656
+https://trade-api.vndirect.com.vn/accounts/0101002672/orders?index=0&offset=10,HTTPS,GET,200,application/json,66.60 KB,281 ms,XMLHttpRequest,30469,0,281,0,0,4000
+https://www.vndirect.com.vn/stock-lend-embed/?accNo=0101002672,HTTPS,GET,200,text/html,19.25 KB,0.75 s,frame navigate,31094,0,750,0,0,2906
+https://static-01.vndirect.com.vn/cms/private/1.1.90/css/font-awesome-1.1.90.min.css,HTTPS,GET,200,text/css,26.47 KB,0.65 s,"<link rel=""stylesheet"">",31844,0,656,0,0,2250
+https://static-01.vndirect.com.vn/cms/private/1.1.90/css/style-1.1.90.min.css,HTTPS,GET,200,text/css,59.01 KB,0.67 s,"<link rel=""stylesheet"">",31844,0,656,16,0,2234
+https://static-01.vndirect.com.vn/cms/private/1.1.90/css/style-mobile-1.1.90.min.css,HTTPS,GET,200,text/css,12.21 KB,328 ms,"<link rel=""stylesheet"">",31844,0,328,0,0,2578
+https://static-01.vndirect.com.vn/cms/private/1.1.90/css/custom-1.1.90.min.css,HTTPS,GET,200,text/css,1.35 KB,47 ms,"<link rel=""stylesheet"">",31844,0,47,0,0,2859
+https://static-01.vndirect.com.vn/cms/private/1.1.90/css/compile-1.1.90.min.css,HTTPS,GET,200,text/css,35.77 KB,47 ms,"<link rel=""stylesheet"">",31844,0,47,0,0,2859
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/jquery-2.1.4.min-1.1.90.min.js,HTTPS,GET,200,application/javascript,82.47 KB,62 ms,<script>,31844,0,62,0,0,2844
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/config_url-1.1.90.min.js,HTTPS,GET,200,application/javascript,1.26 KB,62 ms,<script>,31844,47,15,0,0,2844
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/js.cookie-1.1.90.min.js,HTTPS,GET,200,application/javascript,2.01 KB,78 ms,<script>,31844,47,31,0,0,2828
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/material.datepicker-1.1.90.min.js,HTTPS,GET,200,application/javascript,4.94 KB,375 ms,<script>,31844,62,313,0,0,2531
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/jquery.maskedinput-1.1.90.min.js,HTTPS,GET,200,application/javascript,4.41 KB,93 ms,<script>,31844,62,31,0,0,2813
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/jquery.material.form-1.1.90.min.js,HTTPS,GET,200,application/javascript,3.61 KB,125 ms,<script>,31844,78,47,0,0,2781
+https://static-01.vndirect.com.vn/cms/private/1.1.90/js/custom-1.1.90.min.js,HTTPS,GET,200,application/javascript,41.17 KB,156 ms,<script>,31844,93,63,0,0,2750
+https://static-01.vndirect.com.vn/cms/private/1.1.90/fonts/helvetica-neue-regular.ttf,HTTPS,GET,200,application/octet-stream,249.98 KB,1.25 s,@font-face,32516,0,1250,0,0,984
+https://www.google-analytics.com/analytics.js,HTTPS,GET,200,text/javascript,32.01 KB,47 ms,<script>,32547,0,15,32,0,2156
+https://priceservice.vndirect.com.vn/priceservice/market/snapshot/q=codes:10,HTTPS,GET,200,application/json,0.78 KB,312 ms,XMLHttpRequest,32547,0,312,0,0,1891
+https://priceservice.vndirect.com.vn/priceservice/market/snapshot/q=codes:02,HTTPS,GET,200,application/json,0.99 KB,312 ms,XMLHttpRequest,32547,0,312,0,0,1891
+https://static-01.vndirect.com.vn/cms/private/1.1.90/fonts/helvetica-neue-bold.ttf,HTTPS,GET,200,application/octet-stream,244.07 KB,1.81 s,@font-face,32547,0,1812,0,0,391
+https://trade-api.vndirect.com.vn/customer,HTTPS,OPTIONS,200,,0.72 KB,282 ms,CORS Preflight,32562,0,266,16,0,1906
+https://trade-api.vndirect.com.vn/customer,HTTPS,OPTIONS,200,,0.72 KB,329 ms,CORS Preflight,32562,0,329,0,0,1859
+https://finfo-api.vndirect.com.vn/stocks?status=all,HTTPS,GET,302,text/html,0.74 KB,313 ms,XMLHttpRequest,32562,0,313,0,0,1875
+https://www.google-analytics.com/r/collect?v=1&_v=j58&a=1439449835&t=pageview&_s=1&dl=https%3A%2F%2Fwww.vndirect.com.vn%2Fstock-lend-embed%2F%3FaccNo%3D0101002672&dp=%2Fstock-lend-embed%2F%3FaccNo%3D0101002672&ul=en-us&de=utf-8&dt=Stock-lend-embed&sd=24-bit&sr=1536x864&vp=&je=1&fl=19.0%20r0&_utma=146823024.133363187.1501862227.1501862403.1502083449.2&_utmz=146823024.1501862403.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1502084411814&_u=AACCAAQAI~&jid=353300255&gjid=95496645&cid=133363187.1501862227&tid=UA-2025955-1&_gid=925988848.1502083427&_r=1&z=106808003,HTTPS,GET,302,text/html,0.50 KB,32 ms,<img>,32609,0,32,0,0,2109
+https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-2025955-1&cid=133363187.1501862227&jid=353300255&_gid=925988848.1502083427&gjid=95496645&_v=j58&z=106808003,HTTPS,GET,200,image/gif,446 B,62 ms,<img>,32641,0,62,0,0,2047
+https://trade-api.vndirect.com.vn/customer,HTTPS,GET,200,application/json,0.86 KB,265 ms,XMLHttpRequest,32844,0,265,0,0,1641
+https://finfoapi-as.vndirect.com.vn/stocks?status=all,HTTPS,GET,200,application/json,0.59 MB,0.67 s,XMLHttpRequest,32875,0,656,16,0,1203
+https://trade-api.vndirect.com.vn/customer,HTTPS,GET,200,application/json,0.86 KB,343 ms,XMLHttpRequest,32891,0,343,0,0,1516
+https://margin-api.vndirect.com.vn/margin/info/0101002672,HTTPS,OPTIONS,200,,0.95 KB,1.29 s,CORS Preflight,33109,969,328,0,0,344
+https://static-01.vndirect.com.vn/cms/private/1.1.90/fonts/helvetica-neue-medium.ttf,HTTPS,GET,200,application/octet-stream,131.15 KB,0.84 s,@font-face,33109,0,844,0,0,797
+https://websocket.vndirect.com.vn/notisocket/getCounting?customerId=0101003466,HTTPS,GET,200,application/json,467 B,1.14 s,XMLHttpRequest,33234,860,281,0,0,375
+https://websocket.vndirect.com.vn/notisocket/notification/orderstatus?&accounts[]=0101002672,HTTPS,GET,200,application/json,4.33 KB,1.39 s,XMLHttpRequest,33234,1047,344,0,0,125
+https://margin-api.vndirect.com.vn/margin/info/0101002672,HTTPS,GET,200,application/json,1.01 KB,344 ms,XMLHttpRequest,34406,0,344,0,0,0
